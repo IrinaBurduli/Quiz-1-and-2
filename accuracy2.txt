@@ -1,0 +1,4 @@
+source and destination IP addresses are removed.
+
+Test Loss: nan
+Test Accuracy: 0.6910
